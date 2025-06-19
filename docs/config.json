@@ -1,6 +1,6 @@
 {
-    "homeBundleVersion": "3",
-    "homeBundleUrl": "https://github.com/kaungkaungsk/test-host/releases/download/v3/homescene",
+    "homeBundleVersion": "4",
+    "homeBundleUrl": "https://github.com/kaungkaungsk/test-host/releases/download/v4/mekongskmcore",
     "homeSceneName": "HomeScene",
-    "homeBundleHash": "235622ae756f535b6c2f43eab0858701"
+    "homeBundleHash": "75fa22d0cbeed52c0d962652fcb7bdd9"
 }
