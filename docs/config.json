@@ -1,5 +1,6 @@
 {
     "homeBundleVersion": "3",
     "homeBundleUrl": "https://github.com/kaungkaungsk/test-host/releases/download/v3/homescene",
-    "homeSceneName": "HomeScene"
+    "homeSceneName": "HomeScene",
+    "homeBundleHash": "235622ae756f535b6c2f43eab0858701"
 }
